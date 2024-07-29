@@ -19,7 +19,7 @@ public class Main {
                 System.out.println("Числа должны быть от 1 до 10");
                 return;
             }
-            int result = 0;
+            int result;
 
             switch (operator) {
                 case "+":
